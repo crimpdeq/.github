@@ -2,7 +2,7 @@
 
 Meet Crimpdeq, an open-source force gauge inspired by the Tindeq Progressor, designed to work seamlessly with both [Tindeq](https://tindeq.com/) and [Frez](https://www.frez.app/) apps.
 
-## Features
+## Specs
 - Open-source firmware written in Rust
 - Open-source PCB design
 - USB-C rechargeable battery
@@ -18,9 +18,9 @@ Meet Crimpdeq, an open-source force gauge inspired by the Tindeq Progressor, des
 - Uses the [Tindeq Progressor API](https://tindeq.com/progressor_api/)
 
 ## [Book](https://crimpdeq.github.io/book/)
-For detailed guidance on assembly, calibration, and charging of Crimpdeq, refer to the [Crimpdeq book](https://crimpdeq.github.io/book/).
+For detailed guidance on assembly, calibration, charging, and usage, see the [Crimpdeq book](https://crimpdeq.github.io/book/).
 
-The book covers everything you need to know, from building your own Crimpdeq to firmware installation and PCB details. Below is the list of available sections:
+The documentation covers everything from building your own Crimpdeq to firmware installation and PCB details. Available sections include:
 
 - [Introduction](https://crimpdeq.github.io/book/introduction.html)
 - [Making your own Crimpdeq](https://crimpdeq.github.io/book/assembly.html)
