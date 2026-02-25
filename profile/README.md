@@ -1,6 +1,6 @@
-# Crimpdeq
+# [Crimpdeq](https://crimpdeq.com/)
 
-Meet Crimpdeq, a portable digital force sensor designed for climbers, coaches, and therapists to measure and train finger strength, pulling power, and endurance. It was inspired by [Tindeq Progressor](https://tindeq.com/product/progressor/), and designed to work seamlessly with both [Tindeq](https://tindeq.com/) and [Frez](https://www.frez.app/) apps. Read more on the [Crimpdeq book](https://crimpdeq.github.io/book/).
+Meet [Crimpdeq](https://crimpdeq.com/), a portable digital force sensor designed for climbers, coaches, and therapists to measure and train finger strength, pulling power, and endurance. It was inspired by [Tindeq Progressor](https://tindeq.com/product/progressor/), and designed to work seamlessly with both [Tindeq](https://tindeq.com/) and [Frez](https://www.frez.app/) apps. Read more on the [Crimpdeq book](https://book.crimpdeq.com).
 
 > [!NOTE]
 > If you're interested in reproducing this project or giving it a try, please, reach out! You can contact me via email (sergio.gasquez@gmail.com), [Twitter](https://x.com/Sergio_Gasquez) or [Bluesky](https://bsky.app/profile/sergiogasquez.bsky.social).
@@ -23,15 +23,12 @@ Meet Crimpdeq, a portable digital force sensor designed for climbers, coaches, a
 - Dimensions: 80 × 90 × 35 mm
 - Uses the [Tindeq Progressor API](https://tindeq.com/progressor_api/)
 
-## [Book](https://crimpdeq.github.io/book/)
-For detailed guidance on assembly, calibration, charging, and usage, see the [Crimpdeq book](https://crimpdeq.github.io/book/).
+## [Book](https://book.crimpdeq.com)
 
-The documentation covers everything from building your own Crimpdeq to firmware installation and PCB details. Available sections include:
+The book includes everything you need to build and use your own Crimpdeq. It covers assembly, calibration, firmware, charging, and PCB details.
 
-- [Introduction](https://crimpdeq.github.io/book/introduction.html)
-- [Making your own Crimpdeq](https://crimpdeq.github.io/book/assembly.html)
-- [Calibration](https://crimpdeq.github.io/book/calibration.html)
-- [Charging the Battery](https://crimpdeq.github.io/book/battery.html)
-- [Firmware](https://crimpdeq.github.io/book/firmware.html)
-- [PCB](https://crimpdeq.github.io/book/pcb.html)
+## [App](https://app.crimpdeq.com)
 
+The Crimpdeq App lets you connect to, test, and calibrate your Crimpdeq. It is not intended for training. For training sessions, use the Tindeq Progressor or Frez apps.
+
+See the [Calibration section in the Book](https://book.crimpdeq.com/calibration). The app is available on Windows, macOS, Linux, Android, and the web.
