@@ -3,10 +3,7 @@
 Meet [Crimpdeq](https://crimpdeq.com/), a portable digital force sensor designed for climbers, coaches, and therapists to measure and train finger strength, pulling power, and endurance. It was inspired by [Tindeq Progressor](https://tindeq.com/product/progressor/), and designed to work seamlessly with both [Tindeq](https://tindeq.com/) and [Frez](https://www.frez.app/) apps. Read more on the [Crimpdeq book](https://book.crimpdeq.com).
 
 > [!NOTE]
-> If you're interested in reproducing this project or giving it a try, please, reach out! You can contact me via email (sergio.gasquez@gmail.com), [Twitter](https://x.com/Sergio_Gasquez) or [Bluesky](https://bsky.app/profile/sergiogasquez.bsky.social).
-
-> [!NOTE]
-> If you want a Crimpdeq but don't have the materials or skills to build your own, feel free to email me at sergio.gasquez@gmail.com and we can discuss other options.
+> If you're interested in reproducing this project or giving it a try, please, reach out! If you want a Crimpdeq but don't have the materials or skills to build your own, we can discuss other options. You can contact me via email (sergio.gasquez@gmail.com) or [Twitter](https://x.com/Sergio_Gasquez).
 
 ## Specs
 
